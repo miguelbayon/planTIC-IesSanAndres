@@ -343,7 +343,7 @@ Por otra parte, a través de una encuesta informal en la Intranet del Centro, se
 
 En Centro cuenta con aulas TIC de uso general y aulas específicas de Departamentos.
 
-Las primeras son ofertadas a todo el profesorado al inicio del curso, que solicita su uso por medio de la Intranet. Una vez finalizado el plazo estipulado por Jefatura de Estudios, las aulas TIC de proṕosito general son repartidas entre la demanda.
+Las primeras son ofertadas a todo el profesorado al inicio del curso, que solicita su uso por medio de la Intranet. Una vez finalizado el plazo estipulado por Jefatura de Estudios, las aulas TIC de propósito general son repartidas entre la demanda.
 
 A partir de ahí, cada profesor puede reservar en las horas sobrantes la utilización un día concreto de un aula en concreto por medio de una aplicación web desarrollada específicamente para el Centro y disponible en la Intranet del mismo, que registra las reservas y permite analizar con una hoja de calculo al finalizar el curso las mismas.
 
@@ -1127,7 +1127,7 @@ En nuestro afán de transparencia, consideramos adecuado para la comunidad educa
   - Numero de acceso medidos con Google Analytics
 
 - Responsables:
-  - Responsable de la paǵina web.
+  - Responsable de la página web.
   - Comisión TIC.
   - Equipo Directivo.
 
