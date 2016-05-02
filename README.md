@@ -99,7 +99,7 @@ Además, como complemento al aspecto didáctico de las TIC se ha venido realizan
 
 ### Otros documentos
 
-El Plan de Lectura basa sus aspectos organizativos en el programa ABIES para la gestión de fondos de la biblioteca.
+El Plan Lector basa sus aspectos organizativos en el programa ABIES para la gestión de fondos de la biblioteca.
 
 Por otra parte, el Contrato Programa que el IES tiene firmado con la Consejería estabece un compromiso relacionado con la mejora del uso de recursos TIC basado en la utilización preferente de los grupos flexibles en los que se basa dicho programa de un aula TIC específica.
 
@@ -114,7 +114,7 @@ En el primer caso, el alumnado procede preferentemente de las localidades que ro
 
 Trobajo del Camino es una localidad de considerable entidad (21.000 habitantes) que podemos describir como entorno urbano. Las posibilidad de conexión a Internet son amplias. Su nivel socio-económico medio/bajo es la causa en una menor presencia media de equipos eletrónicos en los docimicilios y mochilas de los alumnos de dicha localidad.
 
-San Andrés del Rabanedo es una localidad semejante en tamaño pero con un nivel socio-económico más alto. A pesar de su marcado carcater residencial, la oferta de conexión a Internet en este caso no es completa, careciendo en muchos casos de la opción de conexión po fibra óptica.
+San Andrés del Rabanedo es una localidad semejante en tamaño pero con un nivel socio-económico más alto. A pesar de su marcado caracter residencial, la oferta de conexión a Internet en este caso no es completa, careciendo en muchos casos de la opción de conexión por fibra óptica.
 
 Esta misma situación se repite en el resto de localidades colindantes al Centro, donde las únicas posibilidades de conexión son ADSL rurales a bajas velocidades.
 
@@ -126,7 +126,7 @@ La mayor parte del profesorado reside en la ciudad de León.
 
 El estudio que realizó el Equipo Directivo por observación directa de los datos de uso de la Intranet del Centro desveló que la gran mayoría dispone de un equipo propio (ya sea ordenador fijo o portátil) y conexión a Internet en sus domicilios.
 
-También es conocido que cada uno de los claustrales con destino definitivo dispone de una cuenta de correo electrónico y con los conocimientos básicos para utilizarla.
+También es conocido que cada uno de los claustrales con destino definitivo dispone de una cuenta de correo electrónico y de los conocimientos básicos para utilizarla.
 
 La formación y disponibilidad de equipos del profesorado que imparte docencia de manera provisional son evaluados de manera informal por Jefatura de Estudios conforme estos llegan al Centro. Las conclusiones de estas evaluaciones es que la gran mayoría responde a un perfil de profesor joven con conocimientos TIC y recursos a su alcance.
 
@@ -168,7 +168,7 @@ Después de la instalación durante el curso 2014-2015 de un equipo actualizado 
 
 - Intención de la Dirección Provincial de convertir el Centro en un centro de referencia dado que es el único de la capital que imparte ciclos formativos de la familia de Informática y Comunicaciones.
 
-- El claustro cuenta con docentes cuyas capacidades en TIC son muy altas, bien por su formación reglada (existe un Departamento de Informáticaque cuenta con 10 miembros en el curso 2015-2016) o bien por su formación específica (profesores que proceden de centros de referencia TIC).
+- El claustro cuenta con docentes cuyas capacidades en TIC son muy altas, bien por su formación reglada (existe un Departamento de Informática que cuenta con 10 miembros en el curso 2015-2016) o bien por su formación específica (profesores que proceden de centros de referencia TIC).
 
 - El Equipo Directivo cuenta con un docente de la especialidad de Informática, por lo existe una asesoría instantanea en temas TIC.
 
@@ -323,7 +323,7 @@ La planificación de este plan TIC se resume en los siguientes puntos:
   1. Difundir este plan entre todos los miembros del Claustro y del Consejo Escolar al inicio de cada curso escolar.
   - Informar a las familias en las reuniones de padres que se llevan a cabo en el primer trimestre.
 
-Además, el plan quedará a disposición de toda la comunidad educativa en formato electrñonico en la página web del Centro.
+Además, el plan quedará a disposición de toda la comunidad educativa en formato electrónico en la página web del Centro.
 
 
 # Líneas de actuación en los siguientes ámbitos
@@ -345,7 +345,7 @@ En Centro cuenta con aulas TIC de uso general y aulas específicas de Departamen
 
 Las primeras son ofertadas a todo el profesorado al inicio del curso, que solicita su uso por medio de la Intranet. Una vez finalizado el plazo estipulado por Jefatura de Estudios, las aulas TIC de propósito general son repartidas entre la demanda.
 
-A partir de ahí, cada profesor puede reservar en las horas sobrantes la utilización un día concreto de un aula en concreto por medio de una aplicación web desarrollada específicamente para el Centro y disponible en la Intranet del mismo, que registra las reservas y permite analizar con una hoja de calculo al finalizar el curso las mismas.
+A partir de ahí, cada profesor puede reservar en las horas sobrantes la utilización de un aula en concreto en un período lectivo específico por medio de una aplicación web desarrollada específicamente para el Centro y disponible en la Intranet del mismo, que registra las reservas y permite analizar la mismas al finalizar el curso a través de una hoja de cálculo.
 
 El reparto de aulas se hace con el objetivo de maximizar el uso de las aulas y de permitir, a aquel profesorado que lo contemple en su programación, impartir el mayor número de horas en una aula TIC.
 
@@ -365,7 +365,7 @@ Muchos docentes utilizan por su cuenta otro tipo de recursos propios (blogs, rep
 
 El objetivo es que en todas las programaciones didácticas se incluyan objetivos, metodologías y procesos acordes con los objetivos propuestos en este Plan TIC.
 
-Además, las programaciones didácticas deberán incluir el uso de un espacio virtual (ya sea el aula virtual del Centro, blogs, repositorios, ect.) como apoyo a la docencia presencial.
+Además, las programaciones didácticas deberán incluir el uso de un espacio virtual (ya sea el aula virtual del Centro, blogs, repositorios, etc.) como apoyo a la docencia presencial.
 
 Jefatura de Estudios deberá de encargarse tanto de llevar a cabo las indicaciones pertinentes al profesorado y CCP para su inclusión al inicio del curso escolar como de realizar el proceso de revisión de las programaciones antes de la aprobación de la Programación General Anual en los meses de octubre.
 
@@ -383,17 +383,17 @@ Jefatura de Estudios deberá de encargarse tanto de llevar a cabo las indicacion
 
 #### Actuación 002. Completar la integración de las competencias digitales en los documentos institucionales del Centro
 
-Revisar y marcar objetivos relacionados con las competencias digitales en aquellos planes educativos de Centro (Plan de Convivencia, Plan de Fomento de la Lectura, Contrato-Programa, Plan de Atención a la Diversidad, etc,) que no cuenten con ellos.
+Revisar y marcar objetivos relacionados con las competencias digitales en aquellos planes educativos de Centro (Plan de Convivencia, Plan Lector, Contrato-Programa, Plan de Atención a la Diversidad, etc,) que no cuenten con ellos.
 
 - Objetivo relacionado:
   - Completar la integración de las TIC en los documentos institucionales y verificar su aplicación.
 
 - Indicadores:
-  - Porcentaje sobre el total de planes que integran las TIC.
+  - Porcentaje sobre el total de planes de aquellos planes que integran las TIC.
 
 - Responsables:
   - Equipo Directivo.
-  - Respondables de cada plan si los hubiera.
+  - Responsables de cada plan si los hubiera.
 
 
 #### Actuación 003. Concienciar al profesorado de la importancia del trabajo colaborativo
@@ -403,7 +403,7 @@ El Equipo Directivo, la CCP y las Jefaturas de Departamento promoverán modelos 
 - Objetivo relacionado:
   - Promover modelos de trabajo colaborativos basados en las TIC entre el alumnado y el profesorado.
 
-##### Actuaciones concretas propuestas:
+##### Actuaciones concretas propuestas
 
 1. Plantear una secuencia de actuaciones educativas para los distintos departamentos con el fin de desarrollar las competencias digitales basándonos en el trabajo colaborativo y reflejar dicha secuencia en la Programación General Anual y en este propio Plan TIC.
 
@@ -436,20 +436,20 @@ El Equipo Directivo, la CCP y las Jefaturas de Departamento promoverán modelos 
 
 #### Actuación 004. Dinamizar el aula virtual del Centro
 
-Se buscará difundir con mayor profusión su existencia e involucrar en ella al mayor número posible de profesores y departamentos.
+Se buscará difundir lo más posible su existencia e involucrar en ella al mayor número posible de profesores y departamentos.
 
 - Objetivo relacionado:
   - Promover el uso de recursos compartidos (actividades, exámenes, materiales, etc.) y de espacios colaborativos donde albergar dichos recursos (aulas virtuales, blogs, repositorios, etc.).
 
-##### Actuaciones concretas propuestas:
+##### Actuaciones concretas propuestas
 
-1. Aplicar una hora de reducción en el horario del responsable del AulA Virtual.
+1. Aplicar una hora de reducción en el horario del responsable del Aula Virtual.
 
   - Indicadores:
     - Reflejo en el horario de una hora de reducción.
 
   - Responsable:
-    - Equipo Diretivo.
+    - Equipo Directivo.
 
 2. Publicitar entre el profesorado al inicio del curso la existencia del Aula Virtual.
 
@@ -482,13 +482,13 @@ Durante el presente año se propondrá como responsable de la Biblioteca a una p
 
 1. Creación de un espacio web en la página del Centro dedicado  la Biblioteca.
 
-- Indicadores:
-  - Porcentaje de alumnos y profesores conocedores de dicho espacio.
-  - Accesos a dicho espacio medidos por medio de Google Analytics,
-
-- Responsables:
-  - Responsable de la Biblioteca.
-  - Responsable de la página web del Centro.
+  - Indicadores:
+    - Porcentaje de alumnos y profesores conocedores de dicho espacio.
+    - Accesos a dicho espacio medidos por medio de Google Analytics,
+  
+  - Responsables:
+    - Responsable de la Biblioteca.
+    - Responsable de la página web del Centro.
 
 2. Publicitación de la Biblioteca por medio de las redes sociales: campaña en las cuentas de Twitter e Instagram institucionales y creación de una cuenta de Instagram para la Biblioteca.
 
@@ -508,7 +508,7 @@ Todos los ordenadores de las aulas TIC generales y de las aulas TIC de los depar
 
 No hay ninguna limitación de acceso en la actualidad a través de medios informáticos. Nuestro objetivo es formar en el uso responsable antes que prohibir.
 
-La red inalámbrica del edificio principal tiene protección WPA2 con el fin de que solo sea accesible por parte de los profesores. La contraseña de dicha red se modifica semestralmente para evitar accesos no autorizados.
+La red inalámbrica del edificio principal tiene protección WPA2 con el fin de que solo sea accesible por parte de los profesores. La contraseña de dicha red se modifica mensualmente para evitar accesos no autorizados.
 
 Las redes WIFI de los edificios de Ciclos Formativos de Informática y Administración también estan protegidas por medio de WPA2. En el primer caso, la contraseña solo es conocida por el profesorado, mientras que en el segundo, también está a disposición de los alumnos que asisten en horario de tarde para que puedan conectar smartphones o tablets.
 
@@ -523,7 +523,7 @@ Finalmente, el Centro tiene presencia oficial en dos de las redes sociales más 
 
 Los dos edificios del Centro cuentan con redes de datos con menos de 6 años de antiguedad. La red del edificio principal fue renovada en el verano de 2014, mientras que las redes de los edificios de Ciclos Formativos y Bachillerato son también recientes dado que se trata de edificios de nueva construcción.
 
-En el edificio principal se cuenta con uan red cableada siguiendo el estándar IEEE 802.3 y de una red inalámbrica siguiendo el estándar IEEE 802.11 que da cobertura a todas las zonas del mismo.
+En el edificio principal se cuenta con una red cableada siguiendo el estándar IEEE 802.3 y de una red inalámbrica siguiendo el estándar IEEE 802.11 que da cobertura a todas las zonas del mismo.
 
 En el edificio de Ciclos Formativos de Informática existen también dos redes (cableada e inalámbrica), mientras que en el edificio de Ciclos Formativos de Administración y Bachillerato existe una única red inalámbrica.
 
@@ -560,7 +560,9 @@ En nuestro Centro los alumnos no disponen de equipamiento y software de uso indi
 
 El edificio principal dispone de 2 aulas TIC (aulas 210 y 211) con ordenadores y pizarra digital de uso general más otras 2 aulas TIC (aulas 203 y 201) con videoproyector y ordenador conectado al mismo.
 
-Los equipos de las aulas con ordenadores se ecnuentran congelados para asegurar la máxima disponibilidad de los mismos y reducir el mantenimiento.
+Ls aulas específicas del programa PMARE (antiguo programa de Diversificación) cuentan también cob equipos informáticos para el uso de los alumnos.
+
+Los equipos de las aulas con ordenadores se encuentran congelados para asegurar la máxima disponibilidad de los mismos y reducir el mantenimiento.
 
 Además, el Salón de Actos del Centro se utiliza como aula TIC gracias a su proyector y su equipo de sonido.
 
@@ -568,14 +570,14 @@ Los departamentos que cuentan con espacios TIC propios (aulas de ordenadores, au
 
 En el edificio de Ciclos Formativos de Informática y de Administración todas las aulas cuentan con equipos informáticos y videoproyector.
 
-Dos profesores cuentan con horas de reducción en su horario para hacerse cargo del mantenimiento de los equipos informáticos que presentan averías. Estas averías son comunicadas por el profesorado a través de la Intranet de Centro, asignadas por Jefatura de Estudios a un responsable y son susceptibles de ser seguido su tratamiento a través también de la Intranet.
+Dos profesores cuentan con horas de reducción en su horario para hacerse cargo del mantenimiento de los equipos informáticos que presentan averías. Estas averías son comunicadas por el profesorado a través de la Intranet de Centro, asignadas por Jefatura de Estudios a un responsable y su tratamiento puede seguirse en tiempo real a través también de la Intranet.
 
 
 #### Equipamiento y software de centro
 
 El Centro dispone en la Sala de Profesores de 4 equipos de uso común a todo el profesorado.
 
-Además, todos los departamentos de coordinación diácica cuentan con equipos informáticos.
+Además, todos los departamentos de coordinación didácica cuentan con equipos informáticos.
 
 En todos estos equipos se cuenta con el IES Fácil instalado además de con un navegador actualizado para el acceso a la Intranet y al IES Fácil Move!.
 
@@ -592,7 +594,7 @@ Se propone la creación de un blog de Centro donde tenga cabida las experiencias
   - Conseguir que el alumnado se encuentre inmerso en un entorno TIC.
 
 - Indicadores:
-  - Accesos medido a través de Googl Analytics.
+  - Accesos medido a través de Google Analytics.
 
 - Responsable:
   - Reponsable de la página web.
@@ -643,7 +645,7 @@ Dado que hay un profesor responsable actualmente de dicho proyecto sin reducció
 
 #### Actuación 010. Establecer el acceso a Internet a través de fibra óptica
 
-Por el volumen de usuarios simultáneos y por las constantes caidas que se presentan en el ADSL debido a la distancia a la Central de Telefñonica se hace imprescindible contar con un acceso a Internet rápido y fiable.
+Por el volumen de usuarios simultáneos y por las constantes caidas que se presentan en el ADSL debido a la distancia a la Central de Telefónica se hace imprescindible contar con un acceso a Internet rápido y fiable.
 
 - Objetivo relacionado:
   - Establecer un acceso a Internet rápido, fiable y seguro.
@@ -683,7 +685,6 @@ En este sentido se realizó una experiencia piloto durante el curso 2014-2015 en
   - Conseguir que el alumnado se encuentre inmerso en un entorno TIC
 
 - Indicadores:
-  . Porcentaje de alumnos que conocen y acceden a dicho medio de difusión.
 
 - Reponsables:
   - Comisión TIC.
@@ -708,7 +709,7 @@ y satisfactoria.
 
 #### Actuación 014. Instalar ChromeOS como arranque dual en los equipos de las aulas TIC
 
-Con el fin de posibilitar el uso de equipos viejos reciclados de FP, particulares, empresas u organismos y de favorecer el uso de la suite de productos de Google por sus características de producto en la nube y colaborativo, intentaremos que los equipos de las aulas TIC tengan arraqnue dual entre Windows y ChromeOS. En caso de que la experiencia resulte satisfactoria obtendremos un gran aumento además de disponibilidad de los equipos, dado que con dico sistema resultan casi irrompibles por el alumnado, su rendimiento no degenera y su mantenimiento es mínimo.
+Con el fin de posibilitar el uso de equipos viejos reciclados de FP, particulares, empresas u organismos y de favorecer el uso de la suite de productos de Google por sus características de producto en la nube y colaborativo, intentaremos que los equipos de las aulas TIC tengan arranque dual entre Windows y ChromeOS. En caso de que la experiencia resulte satisfactoria obtendremos un gran aumento además de disponibilidad de los equipos, dado que con dicho sistema resultan casi irrompibles por el alumnado, su rendimiento no degenera y su mantenimiento es mínimo.
 
 - Objetivo relacionado:
   - Obtener el máximo aprovechamiento de los recursos disponibles, garantizando la máxima disponibilidad de las aulas TIC.
@@ -780,11 +781,11 @@ La situación de partida para planificar la formación del profesorado cambia al
 
 Aunque desde el Equipo Directivo y desde los Departamentos se cuida al capital humano que se incorpora al Centro, no existe un plan formal de acogida a este profesorado.
 
-Generalmente Jefatura de Estudios les guiaba inicialmente en las tareas básicas (alta y uso en la Intranet, IES Fácil e IES Fácil Move!) y luego, si los recién llegdos mostraban interés, eran derivados a los responsables de los distintos programas  relacionados con las TIC (responsable de la página web, del aula virtual, de los ordenadores virtuales, etc.).
+Generalmente Jefatura de Estudios les guiaba inicialmente en las tareas básicas (alta y uso en la Intranet, IES Fácil e IES Fácil Move!) y luego, si los recién llegados mostraban interés, eran derivados a los responsables de los distintos programas  relacionados con las TIC (responsable de la página web, del aula virtual, de los ordenadores virtuales, etc.).
 
 Contamos además con la inestimable colaboración del Departamento de Informática, siempre dispuesto a a yudar a todos los profesores en las dudas y problemas surgidos en el trabajo diario con las TIC.
 
-Además, se viene programando en octubre desde hace un par de años un curso de formación impartido por el Coordinador TIC donde se da una visión general de las infraestructuras y tecnologías empleadas en la docencia y gestión acádemica en el Centro incluida la página web el Centro y las redes sociales en las que está presente este IES.
+Además, desde hace un par de años se viene programando en octubre un curso de formación impartido por el Coordinador TIC donde se da una visión general de las infraestructuras y tecnologías empleadas en la docencia y gestión acádemica en el Centro incluida la página web el Centro y las redes sociales en las que está presente este IES.
 
 
 #### Líneas de formación del profesorado en TIC
@@ -817,7 +818,7 @@ Como se ha comentado en el epígrafe anterior, el Centro organiza desde hace var
 También se organizan, dentro del "Plan director para la mejora de la convivencia y de la seguridad escolar" que se viene desarrollando en el Centro desde hace también varios años, charlas de la Policía Nacional para ESO y Ciclos de Grado medio sobre el uso seguro de Internet, hábitos de uso, riesgos y medidas y herramientas de seguridad.
 
 
-#### Estrategias organizativas coordinadas paa dinamizar y motivar la difusión de las acciones formativas
+#### Estrategias organizativas coordinadas para dinamizar y motivar la difusión de las acciones formativas
 
 - Información a través de la Intranet de los cursos y de las actividades formativas desarrolladas por el Centro por parte de la responsable de formación.
 - Información a través de la Intranet de las ofertas formativas impartidas desde el CFIE, Ministerio de Educación y otras administraciones.
@@ -873,7 +874,7 @@ Dado que este es un documento vivo sometido a revisión y evaluación constante,
 
 #### Actuación 021. Detectar de manera formal las necesidades de formación más importantes del profesorado
 
-Se propone utilizar con lel profesorado la herramienta de autoevaluación en competencia digital de la Junta de Castilla y León para, aprtir de ahí, establecer con mayor precisión las necesidades formativas del mismo.
+Se propone utilizar con el profesorado la herramienta de autoevaluación en competencia digital de la Junta de Castilla y León para, a partir de ahí, establecer con mayor precisión las necesidades formativas del mismo.
 
 - Objetivo relacionado:
   - Acoger desde el punto de vista tecnológico al profesorado de nueva incorporación.
@@ -894,7 +895,7 @@ Se propone utilizar con lel profesorado la herramienta de autoevaluación en com
 
 El entorno familiar ha quedado definido en el punto 2 de este documento al hablar de la contextuaización del plan. Vimos como existe una gran diferencia entre las posibilidades y recursos disponibles en función fundamentalmente del origen del alumnado, que, en nuestro Centro, es muy variado.
 
-Afortunadamente, nuestras familias no son ajenas al auge de los teléfonos inteligentes en los ultimos años y hemos comprobado que la mayoría de los padres disponen y usan esta tecnología, en mucha mayor medida que equipos electrónicos más tradicionales como peden ser PCs.
+Afortunadamente, nuestras familias no son ajenas al auge de los teléfonos inteligentes en los ultimos años y hemos comprobado que la mayoría de los padres disponen y usan esta tecnología, en mucha mayor medida que equipos electrónicos más tradicionales como pueden ser PCs.
 
 Este dato no ha hecho enfocar la interacción con las familias especialmente hacia los smartphone.
 
@@ -907,9 +908,9 @@ El Centro no ha habilitado un sistema oficial de comunicación entre alumnos ni 
 
 ##### Entre profesores y alumnos
 
-Generalmente la comunicación entre profesores y alumnos se realiza a través del correo electrónico. Para ello el Centro pone a disposición de los docentes la posibilidad de utilizar un correo institucional (terminado en "@iessananadres"). No obstante, como criterio se sigue el no forzar al profesorado a utilizar dicho correo institucionl, ya que pretendemos que los docentes se encuentren lo más cómodos posibles en el uso del correo electrónico.
+Generalmente la comunicación entre profesores y alumnos se realiza a través del correo electrónico. Para ello el Centro pone a disposición de los docentes la posibilidad de utilizar un correo institucional (terminado en "@iessananadres.com"). No obstante, como criterio se sigue el no forzar al profesorado a utilizar dicho correo institucional, ya que pretendemos que los docentes se encuentren lo más cómodos posibles en el uso del correo electrónico.
 
-Se detecta como existen profesores que llevan la interacción digital con los alumnos un paso más alla, usando sistemas de mensajería instantánea como Whastapp o Telegram. En este sentido, han resultado muy satisfactorias las experiencias de comunicación entre profesores y a alumnos a través de grupos de Whastapp en las excursiones que se realizaron durante curso pasado o los grupos de whatsapp existentes en algunas materias.
+Se detecta como existen profesores que llevan la interacción digital con los alumnos un paso más alla, usando sistemas de mensajería instantánea como Whastapp o Telegram. En este sentido, han resultado muy satisfactorias las experiencias de comunicación entre profesores y a alumnos a través de grupos de Whastapp en las excursiones que se realizaron durante cursos pasados o los grupos de whatsapp existentes en algunas materias.
 
 Finalmente, el aula virtual también nos permite mantener la comunicación entre alumnos y profesores por medio de la mensajería instantánea que implementa o a través de los foros de cada materia.
 
@@ -919,11 +920,11 @@ Utilizamos como medios de comunicación con las familias la pagina web del Centr
 
 ##### Entre profesores
 
-El criterio a seguir en los últimos años ha sido abandonar en lo posible el correo electronico para la comunicación entre los docentes y sustituirlo por los mecanismos de comunicación de los que nos provee nuestra Internet. Este criterio se basa en el hecho de que el correo electrónico limita las posibilidades de debate.
+El criterio a seguir en los últimos años ha sido abandonar en lo posible el correo electronico para la comunicación entre los docentes y sustituirlo por los mecanismos de comunicación de los que nos provee nuestra Intranet. Este criterio se basa en el hecho de que el correo electrónico limita las posibilidades de debate.
 
 Nuestra Intranet nos permite utilzar un sistema de microblogging con comentarios y "me gusta" al estilo de redes sociles tipo Facebook y, además, implementa mensajería instantánea con posibilidad de grupos al estilo de Whastapp. Hemos de decir que las comunicaciones entre docentes están funcionando a día de hoy de forma espectacular y es una de las implementaciones TIC de las que más orgullosos nos sentimos.
 
-Además, ciertas de funciones de la Intranet, como el alojamieno de documentos, que nos permite no tener que entrar en la poca productiva trea de reenviar correos con nuevas versiones de documentos, o la posibilidad de comentar por parte del profesorado cualquier elemento de la Intranet, hace que la comunicación entre profesores a día de hoy se considere en nuestro Centro plenamente implementada de forma digital.
+Además, ciertas funciones de la Intranet, como el alojamieno de documentos, que nos permite no tener que entrar en la poca productiva tarea de reenviar correos con nuevas versiones de documentos, o la posibilidad de comentar por parte del profesorado cualquier elemento de la Intranet, hace que la comunicación entre profesores a día de hoy se considere en nuestro Centro plenamente implementada de forma digital.
 
 Finalmente, muchos de los docentes se estan sumando a participar en redes sociales, lo que nos ayuda a generar un intercambio de ideas y comentarios muy positivos para la marcha del Centro.
 
@@ -932,7 +933,7 @@ Finalmente, muchos de los docentes se estan sumando a participar en redes social
 
 La web del Centro (www.iessanandres.com) existe desde hace más de 12 años y cuenta con un responsable con una hora de reducción que es el encargado de actualizar los contenidos de la misma.
 
-Se ha optado por evitar el uso de la página web que la Consejería pone a disposición de los Centros por varios motivos, entre ellos, que buscamos dar una imagen atractiva y moderno a la altura de nuestros estudios de Informática, y que necesitabamos que la web tuviera un diseño adecuado para móviles, y la web de la Junta no lo permitía hasta hace poco.
+Se ha optado por evitar el uso de la página web que la Consejería pone a disposición de los Centros por varios motivos, entre ellos, que buscamos dar una imagen atractiva y moderna a la altura de nuestros estudios de Informática, y que necesitabamos que la web tuviera un diseño adecuado para móviles, y la web de la Junta no lo permitía hasta hace poco.
 
 En la actualidad la web permite realizar ciertos trámites online a alumnos y familias (matriculación, solicitud de cambios de materias y grupos al inicio del curso, descarga de justificantes, actualización de datos personales de las familias, etc.).
 
@@ -943,7 +944,7 @@ Además, disponemos de un procedimiento por el cual los alumnos pueden mandar fo
 
 #### Actuación 022. Implementar una sección en la web para el AMPA
 
-En la actualidad las comunicaciones de los padres con el AMPA se reducen a uso del correo electrónico por loq ue consideramos necesario crear un espacio en la web donde los padres y madres de la asociación puedan exponer públicamente todas aquellas informaciones que consideren oportunas.
+En la actualidad las comunicaciones de los padres con el AMPA se reducen a uso del correo electrónico por lo que consideramos necesario crear un espacio en la web donde los padres y madres de la asociación puedan exponer públicamente todas aquellas informaciones que consideren oportunas.
 
 - Objetivo relacionado:
   - Mejorar la comunicación entre docentes y otros órganos del Centro, así como con el alumnado y familias.
@@ -957,7 +958,7 @@ En la actualidad las comunicaciones de los padres con el AMPA se reducen a uso d
 
 #### Actuación 023. Utilizar mensajería instantanea (Whastapp o Telegram) para la comunicación con los padres
 
-Hemos comprobado que el medio de comunicación más efectivo en la actualidad son las apps de mensajeria instantánea como Whatsapp o Telegram. Tenemos constancia de que muchas empresas están moviendo sus sistemas de comunicación, inetracción y soporte a Whatsapp, por lo que queremos innovar siendo pioneros en la comunicación a través de estos sistemas.
+Hemos comprobado que el medio de comunicación más efectivo en la actualidad son las apps de mensajeria instantánea como Whatsapp o Telegram. Tenemos constancia de que muchas empresas están moviendo sus sistemas de comunicación, interacción y soporte a Whatsapp, por lo que queremos innovar siendo pioneros en la comunicación a través de estos sistemas.
 
 - Objetivo relacionado:
   - Mejorar la comunicación entre docentes y otros órganos del Centro, así como con el alumnado y familias.
@@ -987,7 +988,7 @@ Una de las conclusiones que hemos obtenido de las últimas autoevaluciones de Ce
 
 #### Actuación 025. Formar al responsable de las redes sociales del Centro como Community Manager
 
-Porque somos conscientes que llevar las redes sociales de cualquier organización no consiste simplemente en colgar postc on información, consideramos básico que la persona responsable de las redes sociales del Centro cuente con formación en conceptos relativos a Communiy Manager con el fin de conseguir crear comunidad digital en línea con uno de nuestros objetivos más importantes en este aspecto de las TIC.
+Porque somos conscientes que llevar las redes sociales de cualquier organización no consiste simplemente en colgar posts on información, consideramos básico que la persona responsable de las redes sociales del Centro cuente con formación en conceptos relativos a Communiy Manager con el fin de conseguir crear comunidad digital en línea con uno de nuestros objetivos más importantes en este aspecto de las TIC.
 
 - Objetivo relacionado:
   - Crear comunidad y sentimiento de pertenencia entre el alumnado con vistas a mejorar la convivencia del mismo.
@@ -1017,7 +1018,7 @@ A pesar de que en la actualidad estamos bastante satisfechos con la frecuencia d
   - Coordinador TIC.
 
 
-#### Actuación 027. Fomentar la participación de la comunidad educativa em la web y en las redes sociales
+#### Actuación 027. Fomentar la participación de la comunidad educativa en la web y en las redes sociales
 
 Creemos conveniente implicar a los alumnos en la comunidad digital con tareas como el envío de fotos de actividades extraescolares en la web, premios por lo que se les cede la administración de las redes sociales por un día, encuestas en Twitter, concursos, campañas, etc. También creemos conveniente implicar a los profesores en la comunidad digital mediante aportaciones a la web, uso de Twitter, etc.
 
@@ -1063,11 +1064,11 @@ Parte de la gestión académica se lleva a cabo mediante el programa IES Fácil:
 
 El resto de la gestion académica y administrativa, en nuestro afán de conseguir una administración "cero papel", se lleva a cabo por medio de la Intranet que se desplegó en el Centro el curso 2014-2015. Es una Intranet accesible vía web y a través de apps para dispositivos móviles basada en el producto Podio de Citrix. Nos permite llevar control de los eventos del Centro, ausencias del profesorado, todo el proceso de convivencia descrito en el Reglamento de Régimen Interior (partes de incidencias, informes, sanciones y su seguimiento, expedientes, etc.),  averías, datos de profesores, alumnos y departamentos, delegados, actas, recursos fotográficos, reserva de aulas TIC, programaciones didácticas y como repositorio de documentación.
 
-A esta Intranet tiene acceso todo el profesorado y el personal de Conserjería. A pesar de las reticencias iniciales, actualmente es ampliamente acepatada y utilziada por la gran mayoría del personal del Centro.
+A esta Intranet tiene acceso todo el profesorado y el personal de Conserjería. A pesar de las reticencias iniciales, actualmente es ampliamente aceptada y utilizada por la gran mayoría del personal del Centro.
 
 Además de para las gestiones administrativas y academicas, la Intranet incorpora una poderosa herramienta de comunicación muy similar a Whastapp, que permite al profesorado estar en contacto a través de grupos relacionados con proyectos o con los equipos docentes.
 
-La gestión de los fondos de la Bibioteca se lleva a cabo mediante el prgrama ABIES y están en proceso la creación de un espacio virtual (en principio un apartado en la web del Centro junto co una cuenta de Instagram) que integrará las informaciones relacionadas con el Plan de Lectura del Centro.
+La gestión de los fondos de la Bibioteca se lleva a cabo mediante el programa ABIES y están en proceso la creación de un espacio virtual (en principio un apartado en la web del Centro junto con una cuenta de Instagram) que integrará las informaciones relacionadas con el Plan de Lectura del Centro.
 
 El Equipo Directivo utiliza el programa Peñalara al inicio del curso para la elaboración de horarios y posterior exportación al IES 2000.
 
@@ -1080,7 +1081,7 @@ Al inicio del curso se recogen los datos personales de los profesores y se vuelc
 
 Del control de garantías está encargada la Secretaría del Centro, que lleva el control de compras e inventario.
 
-El Centro gestiona a través de la Intranet las incidencias que se producen. El profesorado detalla en ella la incidencia detectada y Jefatura de Estudios o Secretaría, en función del tipo de avería, asignan un respºonsable para la resolución de la misma. Dicho responsable anota todas aquellas actuaciones para que el profesorado afectado pueda hacer un seguimiento de la incidencia hasta que finaliza el proceso de reparación.
+El Centro gestiona a través de la Intranet las incidencias que se producen. El profesorado detalla en ella la incidencia detectada y Jefatura de Estudios o Secretaría, en función del tipo de avería, asignan un responsable para la resolución de la misma. Dicho responsable anota todas aquellas actuaciones para que el profesorado afectado pueda hacer un seguimiento de la incidencia hasta que finaliza el proceso de reparación.
 
 En caso de que la incidencia sobrepase la cualificación de los profesores responsables de mantenimiento en el Centro se deriva a profesionales del sector adecuado.
 
@@ -1164,7 +1165,7 @@ Creemos que la compartición de la información es unas de las características 
 
 #### Actuación 033. Informatizar el mayor número de procesos posibles
 
-BuAunque ya existen muchos procesos informatizados (casi todos los de convivencia, permisos de los profesores, seguimiento de averías, actas de evaluaciones, actas de elección de delegados, preferencias de horario, autoevaluación de Centro, etc.) intentaremos seguir digitalizando procedimientos y documentos tales como el parte de guardia, la comunicación de sanciones a las familias, la localización de profesores en función de su horario, etc.
+Aunque ya existen muchos procesos informatizados (casi todos los de convivencia, permisos de los profesores, seguimiento de averías, actas de evaluaciones, actas de elección de delegados, preferencias de horario, autoevaluación de Centro, etc.) intentaremos seguir digitalizando procedimientos y documentos tales como el parte de guardia, la comunicación de sanciones a las familias, la localización de profesores en función de su horario, etc.
 
 - Objetivo relacionados:
   - Informatizar los procesos en busca de la oficina "cero papel".
@@ -1194,12 +1195,12 @@ BuAunque ya existen muchos procesos informatizados (casi todos los de convivenci
 - En las reuniones de la Comisión TIC se detectarán los aspectos de mejora y se plasmarán por escrito.
 - Se recogerán las sugerencias aportadas por familias y alumnos.
 - Cada dos cursos se realizará una encuesta de valoración del Plan por parte de los diversos sectores: profesorado, familias y alumnado.
-- Los aspectos de mejora detectados supondrán el diseño de pequeñosp planes de acción para el curso siguiente, que intentarán subsanar las deficiencias.
+- Los aspectos de mejora detectados supondrán el diseño de pequeños planes de acción para el curso siguiente, que intentarán subsanar las deficiencias.
 - Una vez evaluados positivamente los planes de acción llevados a cabo para subsanar los aspectos de mejora, se modificarán los apartados necesarios del Plan. De dichas modificaciones se informará a los sectores de la Comunidad Educativa que se vean implicados.
 
 ### Instrumentos de diagnóstico estandarizados a utilizar
 
-Se tratará de enuestas elaboradas por la Comisión TIC durante el tercer trimestre y que se pasaran a la comunidad educativa a través de la Intranet y de la página web del Centro.
+Se tratará de encuestas elaboradas por la Comisión TIC durante el tercer trimestre y que se pasaran a la comunidad educativa a través de la Intranet y de la página web del Centro.
 
 
 ### Sistemas de acreditación y diagnóstico
@@ -1226,7 +1227,7 @@ Será también cometido de la Comisión TIC y de la CCP la evaluación de este p
 
 # Conclusiones y propuestas de mejora
 
-## Conclusiones sobre la puesta en marcha del Plan TIC del Centro.
+## Conclusiones sobre la puesta en marcha del Plan TIC del Centro
 
 La redacción de este Plan TIC ha supuesto para el Centro un estudio exhaustivo del estado en el que se encuentran integradas a día de hoy las nuevas tecnologías en el Instituto.
 
