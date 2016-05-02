@@ -69,7 +69,7 @@ En los diferentes documentos del Centro se incorporan actividades que pueden rea
 
 ### Proyecto Educativo
 
-El papel de las TIC se define en los objetivos del Proyecto Educativo como un recurso básico para la gestión académica, administrativa y de los recursos del Centro, para la comunicación y coordinación interna y externa y para
+El papel de las TIC se define en los objetivos del Proyecto Educativo como un recurso básico para la gestión académica, administrativa y de los recursos del Centro así como para la comunicación y coordinación interna y externa.
 
 
 ### Programaciones Didácticas
