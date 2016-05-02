@@ -56,9 +56,9 @@ Este alumnado de Formación Profesional procede preferentemente del entorno urba
 
 La composición del Claustro varía cada año sobre un 35%, teniendo en cuenta movilidad y jubilaciones y su número permanece estable últimamente en torno a 70 profesores.
 
-Físicamente el Centro esá dividido en cinco edificios: edificio principal (donde cursa estudios el alumnado de ESO), edificio de Ciclos Formativos de Informática, edificio de Ciclos Formativos de Administración y Bachillerto, gimnasio antigÜo y pabellón moderno.
+Físicamente el Centro esá dividido en cinco edificios: edificio principal (donde cursa estudios el alumnado de ESO), edificio de Ciclos Formativos de Informática, edificio de Ciclos Formativos de Administración y Bachillerto, gimnasio antiguo y pabellón moderno.
 
-El horario de docencia es de 8:35 a 14:25 para todas las enseñanzas, excepto para la enseñanzas del Cilo Formativo de Grado Superior de Administración y Finanzas, cuyp horario es de 15:20 a 20:20 horas.
+El horario de docencia es de 8:35 a 14:25 para todas las enseñanzas, excepto para la enseñanzas del Cilo Formativo de Grado Superior de Administración y Finanzas, cuyo horario es de 15:20 a 20:20 horas.
 
 
 ## Definición del papel de las tecnologías de la información, comunicación y aprendizaje en documentos institucionales (Proyecto Educativo, programaciones didácticas, Reglamento de Régimen Interior, planes de convivencia, Plan de formación, etc.)
